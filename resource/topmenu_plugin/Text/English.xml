@@ -3,7 +3,7 @@
 <TextLang>
 	<Text name="msgshare_umd">UMD™</Text>
 	<Text name="msgshare_ms">Memory Stick™</Text>
-	<Text name="msg_em">Pamièá Systemu</Text>
+	<Text name="msg_em">Pamièá systemowa</Text>
 	<Text name="msgshare_opt_load">Uruchom</Text>
 	<Text name="msgshare_opt_playbegin">Odtwórz od poczàtku</Text>
 	<Text name="msgshare_opt_del">Usuâ</Text>
@@ -12,7 +12,7 @@
 	<Text name="msgshare_info_none">-</Text>
 	<Text name="msgshare_info_parent">Kontrola rodzicielska</Text>
 	<Text name="msgshare_info_level">Poziom %1</Text>
-	<Text name="msgshare_info_total">User Capacity</Text>
+	<Text name="msgshare_info_total">Zarezerwowana pamièá</Text>
 	<Text name="msgshare_info_space">Wolne miejsce</Text>
 	<Text name="msgshare_info_space_2">Wolne miejsce</Text>
 	<Text name="msgshare_ctrlpnl_play">Odtwórz</Text>
@@ -40,15 +40,15 @@ Nie ma potrzeby aktualizacji.</Text>
 	<Text name="msgshare_settings">Ustawienia</Text>
 	<Text name="msg_supported">Wspierane</Text>
 	<Text name="msg_magicgate">MagicGate™</Text>
-	<Text name="msg_error_display_output">You cannot use this feature when displaying video output on a connected device.
-Switch to display video output on the PSP™ system.</Text>
+	<Text name="msg_error_display_output">Nie moäna uäywaá tej funkcji podczas wyãwietlania sygnału wideo na podłàczonym urzàdzeniu.
+Przełàcz, aby wyãwietliá wyjãcie wideo w systemie PSP™.</Text>
 	<Text name="msgshare_ctrlpnl_play_with_icon">Uruchom </Text>
 	<Text name="msgshare_ctrlpnl_slide_with_icon">Pokaz slajdów </Text>
 	<Text name="msgshare_opt_load_with_icon">Uruchom </Text>
 	<Text name="msg_game_hibernation">Wznów grè</Text>
-	<Text name="msg_opening_hibernation_info"><![CDATA[You can resume the paused game by selecting [Game] > [Resume Game].
+	<Text name="msg_opening_hibernation_info"><![CDATA[Moäesz wznowiá wstrzymanà grè, wybierajàc [Gra] > [Wznów grè].
 
-If you change the settings for this system, the game may not resume correctly.]]></Text>
+Jeãli zmienisz ustawienia dla tego systemu, gra moäe nie zostaá wznowiona poprawnie.]]></Text>
 	<Text name="msgtop_photo">Zdjècia</Text>
 	<Text name="msgtop_music">Muzyka</Text>
 	<Text name="msgtop_video">Wideo</Text>
@@ -97,25 +97,25 @@ Czy chcesz zaaktualizowaá teraz?</Text>
 	<Text name="msg_backto_music_with_icon">%P Wróá do [Music]</Text>
 	<Text name="msg_backto_rssch_with_icon">%P Wróá do [Kanały RSSl]</Text>
 	<Text name="msg_information_board">Tablica informacyjna</Text>
-	<Text name="msg_sensme_channels">SensMe™ Channels</Text>
+	<Text name="msg_sensme_channels">Kanały SensMe™</Text>
 	<Text name="msg_room">R?M</Text>
 	<Text name="msg_xradar_portable">x-Radar Portable</Text>
 	<Text name="msg_music_unlimited">Music Unlimited powered by Qriocity™</Text>
 	<Text name="msg_bt_disable_to_start">Połàczenie Bluetooth® musi chwilowo zostaá wyłàczone.
 Czy chcesz to zrobiá teraz?</Text>
-	<Text name="msg_bt_disable_to_start_usb"><![CDATA[To use accessories that require a USB connection, [Bluetooth® Connection] under [Settings] > [Bluetooth® Device Settings] must be set to [Off].
-Do you want to set [Bluetooth® Connection] to [Off] now?]]></Text>
+	<Text name="msg_bt_disable_to_start_usb"><![CDATA[Aby korzystać z akcesoriów wymagających połączenia USB, opcja [Połączenie Bluetooth®] w obszarze [Ustawienia] > [Ustawienia urządzeâ Bluetooth®] musi być ustawiona na [Wyłàcz].
+Czy chcesz teraz ustawiá opcjè [Połàczenie Bluetooth®] na [Wyłàcz]?]]></Text>
 	<Text name="msg_bt_device_settings">Ustawienia urzàdzeâ Bluetooth®</Text>
 	<Text name="msgnetconf_notsupported">Nie wspierane</Text>
 	<Text name="msgmusic_info_codec_unknown">Nieznane</Text>
 	<Text name="msgvideoms_error_startdate">Treãá jest niedostèpna przed datà rozpoczècia.</Text>
 	<Text name="msgvideoms_error_expired">Treãá została przeterminowana i nie jest juä dostèpna.</Text>
-	<Text name="msgvideoms_error_timelimited_settime"><![CDATA[This content has a time limit.
-Go to [Settings] > [Date & Time Settings] > [Date and Time], and select [Set via Internet] to set the date and time.]]></Text>
+	<Text name="msgvideoms_error_timelimited_settime"><![CDATA[Ta treãá ma ograniczenie czasowe.
+Przejdå do [Ustawienia] > [Ustawienia daty i godziny] > [Data i godzina], a nastèpnie wybierz [Ustaw przez Internet], aby ustawiá datè i godzinè.]]></Text>
 	<Text name="msgvideoms_error_licenseinfo">Informacje o ochronie praw autorskich sà nieprawidłowe.</Text>
 	<Text name="msgsavedata_opt_backup">Kopiuj</Text>
 	<Text name="msg_error_activated_psp">Musisz aktywowaá system aby uäywaá tych treãci.</Text>
-	<Text name="msg_error_game_display_output">Aby wyãwietlaá obraz na podłàczonym ekranie, musisz go podłàczyá za pomocà kabla komponent lub kabla D-terminal i musisz mieá włàczone wyãwietlanie progressywne.</Text>
+	<Text name="msg_error_game_display_output">Aby wyãwietlaá obraz na podłàczonym ekranie, musisz go podłàczyá za pomocà kabla komponent lub kabla D-terminal oraz mieá włàczone wyãwietlanie progressywne.</Text>
 	<Text name="msg_error_invalid_account">Treãá jest niedostèpna na twoim koâcie.</Text>
 	<Text name="msg_update">Aktualizuj</Text>
 	<Text name="msg_expired_game_quit">Gra została zakonczona poniewaä przekroczono datè waänoãci.</Text>

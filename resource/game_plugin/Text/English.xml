@@ -49,61 +49,61 @@ Proszè czekaá.</Text>
 	<Text name="msgshare_folder">Folder</Text>
 	<Text name="msg_magicgate">MagicGate™</Text>
 	<Text name="msg_error_display_output">Nie moäna uäywaá tej zawartoãci podczas wyãwietlania obrazu na podłaczonym ekranie.
-Switch to display video output on the PSP™ system.</Text>
+Przełàcz, aby wyãwietliá wyjãcie wideo w systemie PSP™.</Text>
 	<Text name="msgshare_opt_load_with_icon">Uruchom </Text>
 	<Text name="msgtop_updateprompt_game">Wersja systemu twojego PSP™ wynosi %1.
 Aby uruchomiá, potrzeba wersji %2 lub nowszej.
 Czy chcesz zaktualizowaá teraz?</Text>
-	<Text name="msgtop_updateprompt">You will need to update before your next use.</Text>
-	<Text name="msg_settings_software_version_number">The version of the application software is %1.
+	<Text name="msgtop_updateprompt">Konieczna będzie aktualizacja przed następnym użyciem.</Text>
+	<Text name="msg_settings_software_version_number">Wersja oprogramowania aplikacji to %1.
 
-You can check the latest version at the website listed below.
+Najnowszà wersjè moäna sprawdziá na stronie internetowej podanej poniäej.
 %2
-Do you want to start the Internet browser and open this website?</Text>
-	<Text name="msg_bt_disable_to_start">The Bluetooth® connection must be temporarily disabled.
-Do you want to disable it now?</Text>
-	<Text name="msg_bt_disable_to_start_usb"><![CDATA[To use accessories that require a USB connection, [Bluetooth® Connection] under [Settings] > [Bluetooth® Device Settings] must be set to [Off].
-Do you want to set [Bluetooth® Connection] to [Off] now?]]></Text>
-	<Text name="msg_update_conf_game_resume_data">If you perform the update, the data for [Resume Game] will be deleted.
-Are you sure you want to continue?</Text>
-	<Text name="msg_hibernation_overwrite_notice">Note that the current data for [Resume Game] will be overwritten if you select [Pause Game] during this game.</Text>
-	<Text name="msgupdate_error_download_dns">The download failed.
-A DNS error has occurred.</Text>
-	<Text name="msgupdate_error_download_proxyserver">The download failed.
-A connection to the HTTP proxy server could not be established.</Text>
-	<Text name="msgupdate_error_download_cannot_connect">The download failed.
-A connection to the server could not be established.</Text>
-	<Text name="msgupdate_error_download">The download failed.</Text>
-	<Text name="msgupdater_error_notmatch">The update cannot be started.
-The update data is not applicable for this system.</Text>
-	<Text name="msg_error_update_updater_unmatched">The update cannot be started.
-You must use update data that is compatible with the model in use. For details, visit the Sony Computer Entertainment Web site for your region.</Text>
+Czy chcesz uruchomiá przeglàdarkè internetowà i otworzyá tè stronè?</Text>
+	<Text name="msg_bt_disable_to_start">Połàczenie Bluetooth® musi zostaá tymczasowo wyłàczone.
+Czy chcesz wyłàczyć teraz?</Text>
+	<Text name="msg_bt_disable_to_start_usb"><![CDATA[Aby korzystać z akcesoriów wymagających połączenia USB, opcja [Połączenie Bluetooth®] w obszarze [Ustawienia] > [Ustawienia urządzeâ Bluetooth®] musi być ustawiona na [Wyłàcz].
+Czy chcesz teraz ustawiá opcjè [Połàczenie Bluetooth®] na [Wyłàcz]?]]></Text>
+	<Text name="msg_update_conf_game_resume_data">Jeãli przeprowadzisz aktualizacjè, dane dla [Wznów grè] zostanà usunięte.
+Czy chcesz kontynuowaá?</Text>
+	<Text name="msg_hibernation_overwrite_notice">Naleäy pamiètaá, że bieäące dane opcji [Wznów grè] zostanà nadpisane, jeãli podczas tej gry wybierzesz opcjè [Wstrzymaj grè].</Text>
+	<Text name="msgupdate_error_download_dns">Pobieranie nie powiodło siè.
+Wystàpił błàd DNS.</Text>
+	<Text name="msgupdate_error_download_proxyserver">Pobieranie nie powiodło siè.
+Nie moäna nawiàzaá połàczenia z serwerem proxy HTTP.</Text>
+	<Text name="msgupdate_error_download_cannot_connect">Pobieranie nie powiodło siè.
+Nie moäna nawiàzaá połàczenia z serwerem.</Text>
+	<Text name="msgupdate_error_download">Pobieranie nie powiodło siè.</Text>
+	<Text name="msgupdater_error_notmatch">Nie moäna rozpoczàá aktualizacji.
+Dane aktualizacji nie dotyczà tego systemu.</Text>
+	<Text name="msg_error_update_updater_unmatched">Nie moäna rozpoczàá aktualizacji.
+Należy uäyá danych aktualizacji zgodnych z uäywanym modelem. Aby uzyskaá szczegółowe informacje, odwiedź witrynè internetowà firmy Sony Computer Entertainment odpowiednià dla swojego regionu.</Text>
 	<Text name="msg_all">wszystko</Text>
 	<Text name="msg_folder_class_with_icon">Grupuj zawartoãá </Text>
 	<Text name="msg_copying_em">Kopiowanie do pamièci systemu...
 Proszè czekaá.</Text>
 	<Text name="msg_copying_ms">Kopiowanie do karty Memory Stick™...
 Proszè czekaá.</Text>
-	<Text name="msgvideoms_info_startdate">Starts</Text>
-	<Text name="msgvideoms_info_expirationdate">Expires</Text>
-	<Text name="msgvideoms_info_remaining">Godzin pozostało</Text>
+	<Text name="msgvideoms_info_startdate">Datà rozpoczècia</Text>
+	<Text name="msgvideoms_info_expirationdate">Wygasa</Text>
+	<Text name="msgvideoms_info_remaining">Pozostało godzin</Text>
 	<Text name="msgvideoms_info_nolimit">Brak limitu czasowego</Text>
 	<Text name="msgvideoms_info_expired">Przeterminowane</Text>
-	<Text name="msgvideoms_error_startdate">The content is not available before the start date.</Text>
-	<Text name="msgvideoms_error_expired">The content has expired and is no longer available.</Text>
-	<Text name="msgvideoms_error_timelimited_settime"><![CDATA[This content has a time limit.
-Go to [Settings] > [Date & Time Settings] > [Date and Time], and select [Set via Internet] to set the date and time.]]></Text>
+	<Text name="msgvideoms_error_startdate">Treãá nie jest dostèpna przed datà rozpoczècia.</Text>
+	<Text name="msgvideoms_error_expired">Treãá wygasła i nie jest juä dostèpna.</Text>
+	<Text name="msgvideoms_error_timelimited_settime"><![CDATA[Ta treãá ma ograniczenie czasowe.
+Przejdå do [Ustawienia] > [Ustawienia daty i godziny] > [Data i godzina], a nastèpnie wybierz [Ustaw przez Internet], aby ustawiá datè i godzinè.]]></Text>
 	<Text name="msgvideoms_error_licenseinfo">Informacje o prawach autorskich sà niepoprawne.</Text>
-	<Text name="msg_expires_variable">Expires %1</Text>
+	<Text name="msg_expires_variable">Wygasa za %1</Text>
 	<Text name="msg_day_plural">%1 dni</Text>
 	<Text name="msgsavedata_bu_cancel_ask">Czy chcesz anulowaá kopiowanie?</Text>
 	<Text name="msgsavedata_opt_backup">Kopiuj</Text>
 	<Text name="msgsavedata_error_corrupted_data_notcopied">Dane nie mogły zostaá skopiowane.
 Dane sà uszkodzone.</Text>
-	<Text name="msg_game_copy_ms_info">Games, game data and saved data must be saved in the same location.
-If you copy a game, the game data and the saved data for the game must also be copied to the Memory Stick™.</Text>
-	<Text name="msg_game_copy_em_info">Games, game data and saved data must be saved in the same location.
-If you copy a game, the game data and the saved data for the game must also be copied to the system storage.</Text>
+	<Text name="msg_game_copy_ms_info">Gry, dane gier i zapisane dane muszà byá zapisane w tej samej lokalizacji.
+Jeãli kopiujesz grè, dane gry i zapisane dane gry muszà zostaá równieä skopiowane na kartè Memory Stick™.</Text>
+	<Text name="msg_game_copy_em_info">Gry, dane gier i zapisane dane muszà byá zapisane w tej samej lokalizacji.
+Jeãli kopiujesz grè, dane gry i zapisane dane gry muszà zostaá równieä skopiowane do pamièci masowej.</Text>
 	<Text name="msg_copied_delete_ms_conf">Kopiowanie ukoâczone.
 Czy chcesz usunàc grè z karty Memory Stick™?</Text>
 	<Text name="msg_copied_delete_em_conf">Kopiowanie ukoâczone.
@@ -116,23 +116,23 @@ Gra z tà samà nazwà juä istnieje.</Text>
 	<Text name="msggame_install_installing">Instalowanie...
 Proszè czekaá.</Text>
 	<Text name="msg_error_activated_psp">Aby uäyá tej zawartoãci, musisz aktywowaá system.</Text>
-	<Text name="msg_error_game_display_output">To display this screen on a connected device, you must be connected using a component AV cable or a D-terminal AV cable and you must output the video content in progressive format.</Text>
-	<Text name="msg_error_download_software">There is no software available for this application.
-To use this feature, you must download application software from the website below.
+	<Text name="msg_error_game_display_output">Aby wyãwietlaá obraz na podłàczonym ekranie, musisz go podłàczyá za pomocà kabla komponent lub kabla D-terminal oraz mieá włàczone wyãwietlanie progressywne.</Text>
+	<Text name="msg_error_download_software">Brak dostèpnego oprogramowania dla tej aplikacji.
+Aby uäyá tej funkcji, musisz pobraá oprogramowanie ze strony poniäej.
 %1
-Do you want to start the Internet browser and open this website?</Text>
+Czy chcesz uruchomiá przeglàdarkè internetowà i otworzyá tè stronè?</Text>
 	<Text name="msg_error_invalid_account">Ta zawartoãá jest niedostèpna na twoim koâcie.</Text>
-	<Text name="msg_del_game_protected_conf">This game is protected.
-Are you sure you want to delete the game?</Text>
+	<Text name="msg_del_game_protected_conf">Ta gra jest chroniona.
+Czy na pewno chcesz usunàá tą grè?</Text>
 	<Text name="msg_update">Aktualizuj</Text>
-	<Text name="msg_error_ms_full_need_freespace">There is not enough free space on the Memory Stick™.
-At least %1 more free space is needed to update.</Text>
-	<Text name="msg_error_em_full_need_freespace">There is not enough free space in the system storage.
-At least %1 more free space is needed to update.</Text>
-	<Text name="msg_error_update_reboot_system">An error occurred during the update operation.
-Restart the system and perform the update again.</Text>
-	<Text name="msg_folder_info_title">%1 Title</Text>
-	<Text name="msg_folder_info_titles">%1 Titles</Text>
+	<Text name="msg_error_ms_full_need_freespace">Brak wystarczajàcej iloãci wolnego miejsca w Memory Stick™.
+Potrzeba co najmiej %1 wolnego miejsca, aby wykonaá aktualizacjè.</Text>
+	<Text name="msg_error_em_full_need_freespace">Brak wystarczajàcej iloãci wolnego miejsca w pamièci systemowej.
+Potrzeba co najmiej %1 wolnego miejsca, aby wykonaá aktualizacjè.</Text>
+	<Text name="msg_error_update_reboot_system">Podczas aktualizacji wystàpił błàd.
+Uruchom ponownie system i ponownie przeprowadå aktualizacjè.</Text>
+	<Text name="msg_folder_info_title">%1 Tytuł</Text>
+	<Text name="msg_folder_info_titles">%1 Tytułów</Text>
 	<Text name="msg_title_count">Tytuły</Text>
 	<Text name="msg_by_format">wg formatu</Text>
 	<Text name="msg_psp">PSP™ (PlayStation®Portable)</Text>
@@ -143,20 +143,20 @@ Restart the system and perform the update again.</Text>
 	<Text name="msg_by_expiration">wg daty waänoãci</Text>
 	<Text name="msg_before_expiration_date">Z datà waänoãci</Text>
 	<Text name="msg_without_expiration_date">Bez daty waänoãci</Text>
-	<Text name="msg_expiration_game_information">This game has an expire date.</Text>
-	<Text name="msg_expiration_notice_game_psbutton">After the expire date, you will no longer be able to play the game. It is recommended that you save your game progress often.
-You can also check the expire date during gameplay by pressing the PS button.</Text>
-	<Text name="msg_expiration_notice_game_homebutton">After the expire date, you will no longer be able to play the game. It is recommended that you save your game progress often.
-You can also check the expire date during gameplay by pressing the HOME button.</Text>
-	<Text name="msg_subscription_license_expired_conf">The expire date for this game has been reached.
-Do you want to extend the expire date?</Text>
-	<Text name="msg_subscription_license_expiring_conf">This game will expire soon.
-Do you want to extend the expire date?</Text>
-	<Text name="msg_error_by_expiration_date_settime"><![CDATA[To sort by expire date, you must go to [Settings] > [Date & Time Settings] > [Date and Time], and select [Set via Internet] to set the date and time.]]></Text>
-	<Text name="msgerror_error_del_ms_no_access">Delete failed.
-The Memory Stick™ could not be accessed.</Text>
-	<Text name="msgerror_error_del_em_no_access">Delete failed.
-The system storage could not be accessed.</Text>
+	<Text name="msg_expiration_game_information">Ta gra posiada datè waänoãci.</Text>
+	<Text name="msg_expiration_notice_game_psbutton">Po upływie daty waänoãci nie bèdziesz juä mógł graá w tà grè. Zalecane jest częstè zapisywanie postèpów w grze.
+Datè waänoãci moäesz także sprawdziá podczas rozgrywki, naciskajàc przycisk PS.</Text>
+	<Text name="msg_expiration_notice_game_homebutton">Po upływie daty waänoãci nie bèdziesz juä mógł graá w tà grè. Zalecane jest częstè zapisywanie postèpów w grze.
+Datè waänoãci moäesz także sprawdziá podczas rozgrywki, naciskajàc przycisk PS.</Text>
+	<Text name="msg_subscription_license_expired_conf">Upłynàł termin waänoãci tej gry.
+Czy chcesz przedłużyá datè waänoãci?</Text>
+	<Text name="msg_subscription_license_expiring_conf">Ta gra wkrótce wygaãnie.
+Czy chcesz przedłużyá datè waänoãci?</Text>
+	<Text name="msg_error_by_expiration_date_settime"><![CDATA[Aby posortowaá według daty waänoãci, musisz przejãá do [Ustawienia] > [Ustawienia daty i godziny] > [Data i godzina], oraz wybraá [Ustaw przez Internet] aby ustawiá datè i godzinè.]]></Text>
+	<Text name="msgerror_error_del_ms_no_access">Usuwanie nie powiodło siè.
+Nie moäna uzyskaá dostèpu do karty Memory Stick™.</Text>
+	<Text name="msgerror_error_del_em_no_access">Usuwanie nie powiodło siè.
+Nie moäna uzyskaá dostèpu do pamièci systemowej.</Text>
 	<Text name="msg_version">Wersja</Text>
 	<Text name="msg_not_show_message">Nie pokazuj ponownie</Text>
 	<Text name="msg_internet_search">Wyszukaj w Internecie</Text>
@@ -166,23 +166,23 @@ The system storage could not be accessed.</Text>
 	<Text name="msg_view">Widok</Text>
 	<Text name="msg_deleting">Usuwanie...
 Proszè czekaá.</Text>
-	<Text name="msg_del_software_notice">If you delete this application software, the content for the software will not be deleted.
-To delete the content, you must use the application software.</Text>
-	<Text name="msg_del_software_conf">The application software will be deleted from the Memory Stick™.
-Are you sure you want to continue?</Text>
-	<Text name="msg_del_software_em_conf">The application software will be deleted from the system storage.
-Are you sure you want to continue?</Text>
-	<Text name="msg_software_timer_limitation">When this application software is running, timer settings for other features will not activate even if the system is put into sleep mode.</Text>
-	<Text name="msg_loading">Loading...</Text>
+	<Text name="msg_del_software_notice">Jeãli usuniesz tá aplikacjá, zawartoãá oprogramowania nie zostanie usuniáta.
+Aby usunàá zawartoãá, naleäy skorzystaá z aplikacji.</Text>
+	<Text name="msg_del_software_conf">Oprogramowanie aplikacji zostanie usuniète z karty Memory Stick™.
+Czy chcesz kontynuowaá??</Text>
+	<Text name="msg_del_software_em_conf">Oprogramowanie aplikacji zostanie usuniète z pamièci systemowej.
+ACzy chcesz kontynuowaá??</Text>
+	<Text name="msg_software_timer_limitation">Gdy ta aplikacja jest uruchomiona, ustawienia timera dla innych funkcji nie zostanà aktywowane, nawet jeãli system przejdzie w tryb uãpienia.</Text>
+	<Text name="msg_loading">Ładowanie...</Text>
 	<Text name="msg_download_pls_wait">Pobieranie...
 Proszè czekaá.</Text>
-	<Text name="msg_error_timelimited_settime_activate_system">This content has a time limit.
-To use the content, you must activate this system.</Text>
-	<Text name="msg_settings_software_version_number_short">The version of the application software is %1.
+	<Text name="msg_error_timelimited_settime_activate_system">Ta treãá ma ograniczenie czasowe.
+Aby korzystaá z treãci, musisz aktywowaá ten system.</Text>
+	<Text name="msg_settings_software_version_number_short">Wersja oprogramowania aplikacji to %1.
 
-You can check the latest version at the website listed below.
+Najnowszà wersjè moäna sprawdziá na stronie internetowej podanej poniäej.
 %2</Text>
-	<Text name="msg_error_download_software_short">There is no software available for this application.
-To use this feature, you must download application software from the website below.
+	<Text name="msg_error_download_software_short">Brak dostèpnego oprogramowania dla tej aplikacji.
+Aby uäyá tej funkcji, musisz pobraá oprogramowanie ze strony poniäej.
 %1</Text>
 </TextLang>
