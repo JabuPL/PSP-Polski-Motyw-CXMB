@@ -32,7 +32,7 @@ Czekaj.</Text>
 	<Text name="msg_error_display_output">Nie moäna uäywaá tej zawartoãci podczas wyãwietlania obrazu na podłaczonym ekranie.
 Przełàcz, aby wyãwietliá wyjãcie wideo w systemie PSP™.</Text>
 	<Text name="msg_system_update">Aktualizacja systemu</Text>
-	<Text name="msgnetconf_searching">Trwa wyszukanie...
+	<Text name="msgnetconf_searching">Trwa wyszukiwanie...
 Czekaj.</Text>
 	<Text name="msgupdate_new_found">Znaleziono najnowsze dane aktualizacji.
 Aby pobraá, włóä kartè Memory Stick™ z co najmniej %1 MB wolnego miejsca i naciãnij przycisk %e.</Text>

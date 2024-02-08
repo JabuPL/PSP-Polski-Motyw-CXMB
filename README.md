@@ -15,21 +15,22 @@
 - `/PSP-XMBTranslTool.exe` - program mojego autorstwa który składa motyw w plik .ctf
 
 # Ile zostało przetłumaczone?
-- `sysconf_plugin` - z 80% przetłumaczone przez Jabu dawno temu, reszta Kruszec
-- `topmenu_plugin` - większość przetłumaczone przez Jabu dawno temu, reszta Kruszec
-- `game_plugin` - więszkość przetłumaczona poza tekstami o aktualizacjach przez Jabu, reszta Kruszec
-- `ps3scan_plugin` - 100%, Kruszec
 - `adhoc_transfer` - 100%, Kruszec
-- `photo_browser_plugin` - 100%, Kruszec
-- `photo_player_plugin` - 100%, Kruszec
-- `camera_plugin` - 100%, Kruszec
-- `osk_plugin` - 100&, Kruszec
-- `opening_plugin` - 100%(Funfact, ten plugin ma aż jedną linijke tekstu xD), Kruszec
-- `system_plugin` - 100%, Kruszec
 - `auth_plugin` - 100%, Kruszec
-- `update_plugin` - 100%, Kruszec
+- `camera_plugin` - 100%, Kruszec
+- `game_plugin` - więszkość przetłumaczona poza tekstami o aktualizacjach przez Jabu, reszta Kruszec
 - `music_player_plugin` - 100%, Kruszec
 - `netplay_plugin` - 100%, Kruszec
+- `osk_plugin` - 100&, Kruszec
+- `photo_browser_plugin` - 100%, Kruszec
+- `photo_player_plugin` - 100%, Kruszec
+- `ps3scan_plugin` - 100%, Kruszec
+- `opening_plugin` - 100%(Funfact, ten plugin ma aż jedną linijke tekstu xD), Kruszec
+- `system_plugin` - 100%, Kruszec
+- `sysconf_plugin` - z 80% przetłumaczone przez Jabu dawno temu, reszta Kruszec
+- `topmenu_plugin` - większość przetłumaczone przez Jabu dawno temu, reszta Kruszec
+- `update_plugin` - 100%, Kruszec
+
 
 # Gdzie można to pobrać?
 Gotowy motyw będzie dostępny za jakiś czas w repo, gdy będzie już większość tekstu przetłumaczona.
@@ -55,8 +56,8 @@ Tak jak każdy motyw CXMB, czyli wrzucamy plik .ctf do MS0:/PSP/THEME/, a potem 
 (wip)
 
 # Credits'y
-Jabu - Pomysł i wprowadzenie go w życie, polska czcionka, PSP-XMBTrnaslTool, troche tłumaczenia
-Kruszec - Za odkopanie pomysłu, tłumaczenie wiekszości tekstu, bez niego projekt nie poszedł by do przodu
+- Jabu - Pomysł i wprowadzenie go w życie, polska czcionka, PSP-XMBTrnaslTool, troche tłumaczenia
+- Kruszec - Za odkopanie pomysłu, tłumaczenie wiekszości tekstu, bez niego projekt nie poszedł by do przodu
 
-rcomage - (?)
-ctf.exe/unctf.exe - (?)
+-rcomage - (?)
+-ctf.exe/unctf.exe - (?)
