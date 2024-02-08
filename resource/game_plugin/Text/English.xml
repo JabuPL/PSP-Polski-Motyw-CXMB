@@ -34,7 +34,7 @@ Za mało pamièci systemowej.</Text>
 Kod regionu jest niepoprawny.</Text>
 	<Text name="msgshare_error_internal">Wystàpił błàd wenètrzny.</Text>
 	<Text name="msgshare_error_game_start">Gra nie mogła zostaá uruchomiona.</Text>
-	<Text name="msgshare_updateprompt_updateunnecessary">Wersja systemu twojego PSP™ wynosi %1.
+	<Text name="msgshare_updateprompt_updateunnecessary">Wersja systemu twojego PSP™ to %1.
 Nie ma potrzeby aktualizacji.</Text>
 	<Text name="msgshare_wait">Proszè czekaá...</Text>
 	<Text name="msgshare_error_content_corrupted">Dane sà uszkodzone.</Text>
@@ -51,7 +51,7 @@ Proszè czekaá.</Text>
 	<Text name="msg_error_display_output">Nie moäna uäywaá tej zawartoãci podczas wyãwietlania obrazu na podłaczonym ekranie.
 Przełàcz, aby wyãwietliá wyjãcie wideo w systemie PSP™.</Text>
 	<Text name="msgshare_opt_load_with_icon">Uruchom </Text>
-	<Text name="msgtop_updateprompt_game">Wersja systemu twojego PSP™ wynosi %1.
+	<Text name="msgtop_updateprompt_game">Wersja systemu twojego PSP™ to %1.
 Aby uruchomiá, potrzeba wersji %2 lub nowszej.
 Czy chcesz zaktualizowaá teraz?</Text>
 	<Text name="msgtop_updateprompt">Konieczna będzie aktualizacja przed następnym użyciem.</Text>

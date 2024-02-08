@@ -21,7 +21,7 @@ Przełàcznik WIRELESS w systemie PSP™ nie jest włàczony.</Text>
 Skontaktuj siè z pomocà technicznà, aby uzyskaá pomoc.</Text>
 	<Text name="msgshare_latest_ver">Najnowsza wersja oprogramowania systemu jest juä zainstalowana.
 Aktualizacja nie jest konieczna.</Text>
-	<Text name="msgshare_updateprompt_updateunnecessary">Wersja systemu twojego PSP™ wynosi %1.
+	<Text name="msgshare_updateprompt_updateunnecessary">Wersja systemu twojego PSP™ to %1.
 Nie ma potrzeby aktualizacji.</Text>
 	<Text name="msgshare_error_connect_dns">Pobieranie nie powiodło siè.
 Wystàpił błàd DNS.</Text>

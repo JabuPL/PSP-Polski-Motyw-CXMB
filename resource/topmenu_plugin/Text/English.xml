@@ -29,10 +29,10 @@ Dane sà uszkodzone.</Text>
 	<Text name="msgshare_error_wrong_region_disc_game">Gra nie mogła zostaá uruchomiona.
 Kod regionu jest niepoprawny.</Text>
 	<Text name="msgshare_error_game_start">Gra nie mogła zostaá uruchomiona.</Text>
-	<Text name="msg_update_play_system_update"><![CDATA[Wersja sytemu twojego PSP™ wynosi %1.
+	<Text name="msg_update_play_system_update"><![CDATA[Wersja sytemu twojego PSP™ to %1.
 Aby uruchomiá, musisz zaaktualizowaá do %2 lub nowszej.
 Przejdå do [Ustawienia] > [Aktualizacja systemu] anu zaaktualizowaá.]]></Text>
-	<Text name="msgshare_updateprompt_updateunnecessary">Wersja systemu PSP™ wynosi %1.
+	<Text name="msgshare_updateprompt_updateunnecessary">Wersja systemu PSP™ to %1.
 Nie ma potrzeby aktualizacji.</Text>
 	<Text name="msgshare_receive">Odbierz</Text>
 	<Text name="msgshare_game">Gra</Text>
@@ -71,10 +71,10 @@ Przejdå do [Ustawienia] > [Ustawienia systemu] aby jà sformatowaá.]]></Text>
 	<Text name="msg_system_update">Aktualizacja systemu</Text>
 	<Text name="msgtop_game_gamedl">Udostèpnianie gry</Text>
 	<Text name="msgtop_sysconf_theme">Ustawienia motywu</Text>
-	<Text name="msgtop_updateprompt_game">Wersja systemu twojego PSP™ wynosi %1.
+	<Text name="msgtop_updateprompt_game">Wersja systemu twojego PSP™ to %1.
 Aby uruchomiá, musisz zaaktualizowaá do %2 lub nowszej.
 Czy chcesz zaaktualizowaá teraz?</Text>
-	<Text name="msgtop_updateprompt_musicvideo">Wersja systemu twojego PSP™ wynosi %1.
+	<Text name="msgtop_updateprompt_musicvideo">Wersja systemu twojego PSP™ to %1.
 Aby odtworzyá, musisz zaaktualizowaá do %2 lub nowszej.
 Czy chcesz zaaktualizowaá teraz?</Text>
 	<Text name="msgtop_updateprompt">Musisz zaaktualizowaá przed kolejnym uäyciem.</Text>

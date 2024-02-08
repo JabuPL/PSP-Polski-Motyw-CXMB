@@ -110,9 +110,9 @@ Czy na pewno chcesz kontynuowaá?</Text>
 Folder zawiera dane innego typu niä dane obrazu.</Text>
 	<Text name="msgphoto_del_protected_ask">Ten obraz jest chroniony.
 Czy na pewno chcesz usunàá obraz?</Text>
-	<Text name="msgphoto_error_display">Nie moäna wyświetliá tego obrazu.</Text>
+	<Text name="msgphoto_error_display">Nie moäna wyãwietliá tego obrazu.</Text>
 	<Text name="msgphoto_error_playback">Nie moäna rozpoczàá pokazu slajdów.</Text>
-	<Text name="msgphoto_error_playback_folder">Brak obrazów, które moäna wyświetliá.</Text>
+	<Text name="msgphoto_error_playback_folder">Brak obrazów, które moäna wyãwietliá.</Text>
 	<Text name="msgphoto_folder_info_image_limit"></Text>
 	<Text name="msgphoto_folder_info_image_limit_over"> (Moäna wyãwietliá tylko %1 obrazów.)</Text>
 	<Text name="msgphoto_send">Wyãlij</Text>

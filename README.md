@@ -3,12 +3,12 @@
 
 
 # Jak to działa?
-Więcej tutaj: https://strefapsx.pl/forum/psp-ps-vita-homebrew/polonizacja-xmb-z-polskim-fontem/
+(wip) Więcej tutaj: https://strefapsx.pl/forum/psp-ps-vita-homebrew/polonizacja-xmb-z-polskim-fontem/
 
 # Co jest w folderach?
 - `/resources` zawiera wypakowane zasoby .rco, tekst który trzeba przetłumaczyć jest w `/nazwa_modułu_xmb/Text/English.xml`, wszystkie zmianny powinny być w tych plikach .xml
 - `/original_rco` zawiera oryginalne zdekompresowane .rco wyciągnięte z Flash0 na FW 6.60
-- `/backup` - kopia zapasowa wersji testowych, tak na zapasowa
+- `/backup` - kopia zapasowa wersji testowych, tak na zapas
 - `/stuff` - zawiera progsy odpalane przez PSP-XMBTranslTool które składaja motyw do kupy
 - `/ltn0.pgf` - polska czcionka mojego autorstwa zrobiona na bazie oryginalnej
 - `/base.ptf` - bazowy motyw .ptf który będzie użyty do stworzenia .ctf
@@ -28,6 +28,8 @@ Więcej tutaj: https://strefapsx.pl/forum/psp-ps-vita-homebrew/polonizacja-xmb-z
 - `system_plugin` - 100%, Kruszec
 - `auth_plugin` - 100%, Kruszec
 - `update_plugin` - 100%, Kruszec
+- `music_player_plugin` - 100%, Kruszec
+- `netplay_plugin` - 100%, Kruszec
 
 # Gdzie można to pobrać?
 Gotowy motyw będzie dostępny za jakiś czas w repo, gdy będzie już większość tekstu przetłumaczona.
@@ -42,8 +44,8 @@ W skrócie:
 3. Klikamy "Kompiluj Motyw", wybieramy gdzie chcemy zapisać .ctf
 4. Program po ukończeniu można zamknąć a motyw wrzucić na PSP
 
-# Jak zainstalować ów motyw?
-Tak jak każdy motyw CXMB, czyli wrzucamy plik .ctf do PSP/THEME/, a potem wybieramy go w ustawieniach konsoli.
+# Jak zainstalować motyw?
+Tak jak każdy motyw CXMB, czyli wrzucamy plik .ctf do MS0:/PSP/THEME/, a potem wybieramy go w ustawieniach konsoli.
 
 
 # Trochę więcej o PSP-XMBTranslTool
@@ -51,3 +53,10 @@ Tak jak każdy motyw CXMB, czyli wrzucamy plik .ctf do PSP/THEME/, a potem wybie
 
 # Jak przenieść spolszczenie do innych motywów CXMB?
 (wip)
+
+# Credits'y
+Jabu - Pomysł i wprowadzenie go w życie, polska czcionka, PSP-XMBTrnaslTool, troche tłumaczenia
+Kruszec - Za odkopanie pomysłu, tłumaczenie wiekszości tekstu, bez niego projekt nie poszedł by do przodu
+
+rcomage - (?)
+ctf.exe/unctf.exe - (?)
