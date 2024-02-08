@@ -288,7 +288,7 @@ Proszè czekaá.</Text>
 	<Text name="msgsysconf_console_lang_japanese">日本語</Text>
 	<Text name="msgsysconf_console_lang_kr">한국어</Text>
 	<Text name="msgsysconf_console_msformat">Formatuj kartè Memory Stick™</Text>
-	<Text name="msgsysconf_console_msformat_ask1">Czy chcesz sformatowaá kartè  Memory Stick™?</Text>
+	<Text name="msgsysconf_console_msformat_ask1">Czy chcesz sformatowaá kartè Memory Stick™?</Text>
 	<Text name="msgsysconf_console_msformat_ask2">Wszystkie dane na karcie Memory Stick™ zostanà usuniète.
 Czy na pewno chcesz kontynuowaá?</Text>
 	<Text name="msgsysconf_console_msformat_formatting">Formatowanie...
@@ -303,7 +303,7 @@ Nie wyłàczaj urzàdzenia.</Text>
 	<Text name="msgsysconf_console_init">Przywróc domyãlne ustawienia</Text>
 	<Text name="msgsysconf_console_init_ask1">Te ustawienia zostanà przywrócone:</Text>
 	<Text name="msgsysconf_console_init_ask2">Ustawienia zostanà przywrócone do domyãlnych wartoãci.
-Czy napewno chcesz kontynuowaá?</Text>
+Czy na pewno chcesz kontynuowaá?</Text>
 	<Text name="msgsysconf_console_initializing">Przywracanie domyãlnych ustawieâ...
 Nie wyłàczaj urzàdzenia.</Text>
 	<Text name="msgsysconf_console_init_completed">Przywracanie ukoâczone.
@@ -531,18 +531,18 @@ Macromedia, Flash and Macromedia Flash are trademarks or registered trademarks o
 	<Text name="msgsysconf_console_activate_flash">Flash® Player</Text>
 	<Text name="msg_sound_dnormal">Dynamiczny normalizator</Text>
 	<Text name="msg_console_umd">Auto-uruchamianie UMD™</Text>
-	<Text name="msg_tool_geo_filtering_for_psstore">Geo Filtering for PlayStation®Store</Text>
+	<Text name="msg_tool_geo_filtering_for_psstore">Geo Filtering dla PlayStation®Store</Text>
 	<Text name="msg_tool_normal">Normalny</Text>
 	<Text name="msg_tool_always_succeed">Zawsze udany</Text>
 	<Text name="msg_tool_always_fail">Zawsze zawodzi</Text>
 	<Text name="msg_console_usb">Ładowanie USB</Text>
-	<Text name="msg_error_console_usb"><![CDATA[Jeäeli host nie wykrywa podłàczonego urzàdzenia, przejdå do [Ustawienia] > [Ustawienia systemu] i ustaw [Ładowanie USB] na [Wyłàcz]. Zmiana ustawienia na [wWyłàáz] moäe umoäliwiá wykrycie urzàdzenia.]]></Text>
+	<Text name="msg_error_console_usb"><![CDATA[Jeäeli host nie wykrywa podłàczonego urzàdzenia, przejdå do [Ustawienia] > [Ustawienia systemu] i ustaw [Ładowanie USB] na [Wyłàcz]. Zmiana ustawienia na [Wyłàcz] moäe umoäliwiá wykrycie urzàdzenia.]]></Text>
 	<Text name="msg_display_output">Zmieâ wyjãcie wideo</Text>
-	<Text name="msg_display_output_instruction">Ustawia wyãwietlanie sygnału wideo na ekranie systemu PSP™ lub na podłączonym urządzeniu. Moäesz także zmieniá wejãcie wideo naciskajàc i przytrzymujàc przycisk wyãwietlania ekrnau przez co najmniej %1 sekund.</Text>
+	<Text name="msg_display_output_instruction">Ustawia wyãwietlanie sygnału wideo na ekranie systemu PSP™ lub na podłàczonym urzàdzeniu. Moäesz także zmieniá wejãcie wideo naciskajàc i przytrzymujàc przycisk wyãwietlania ekranu przez co najmniej %1 sekund.</Text>
 	<Text name="msg_tvtype">Typ TV</Text>
 	<Text name="msg_component_output">Wyjãcie Komponent /
-D-Terminal</Text>
-	<Text name="msg_component_output_instruction">Ustawia format wyjãciowy uäywany po podłàczeniu do telewizora za pomocà złàcza komponentowego lub D-Terminal.</Text>
+port D</Text>
+	<Text name="msg_component_output_instruction">Ustawia format wyjãciowy uäywany po podłàczeniu do telewizora za pomocà złàcza komponentowego lub portu D.</Text>
 	<Text name="msg_output_other_conf">Czy chcesz wyãwietlaá sygnał wideo na podłàczonym uäàdzeniu?
 Moäesz wróciá do wyãwietlenia wyjãcia wideo na tym systemie, wyłàczając i włàczając system PSP™.</Text>
 	<Text name="msg_output_psp_conf">Czy chcesz wyãwietlaá wyjãcie wideo na tym systemie?</Text>
@@ -596,7 +596,7 @@ Proszè czekaá.</Text>
 	<Text name="msgsysconf_powersave_wlanpowersave_info">Jeãli ustawisz na [Włàcz], system bèdzie siè łàczył zuäywajàc mniej energii. Jeãli komunikacja bèdzie nieefektywna, ustaw na [Wyłàcz].</Text>
 	<Text name="msgsysconf_sound_avls_info">Ogranicza maksymalny poziom głoãnoãci słuchawek. Pomaga to zredukowaá głośnoãá dåwièku wydobywajàcego siè z słuchawek, co zmniejsza ryzyko niedosłyszenia otoczenia.</Text>
 	<Text name="msg_sound_dnormal_info">Redukuje róänicè głoãnoãci pomièdzy ãcieäkami.</Text>
-	<Text name="msgsysconf_security_pc_level_info">Ustawia poziom kontroli rodzicielskiej dla gier z tą funkcjà. Im niäszy poziom tym wyäsze ograniczenie.</Text>
+	<Text name="msgsysconf_security_pc_level_info">Ustawia poziom kontroli rodzicielskiej dla gier z tà funkcjà. Im niäszy poziom tym wyäsze ograniczenie.</Text>
 	<Text name="msgsysconf_security_browser_info">Ogranicza moäliwoãá uruchomienia przeglàdarki internetowej.</Text>
 	<Text name="msg_colorspace">Przestrzeâ barw</Text>
 	<Text name="msg_colorspace_info">Aby kolory wyãwietlane przez system były bardziej äywe, wybierz opcjè [Rozszerzona].</Text>
@@ -613,7 +613,7 @@ Proszè czekaá.</Text>
 	<Text name="msg_close_panel_info">Ustawia działanie systemu PSP™, kiedy panel wyãwietlacza jest zamknièty.</Text>
 	<Text name="msg_close_panel_sleepmode">Przejdå w tryb uãpienia</Text>
 	<Text name="msg_usb_power_stopped_instruction">Poziom zasilania w złàczu USB jest niski i nie moäna wykonaá teraz ładowania przez USB.
-Jeãli poziom naładowania baterii jest niski, zaleca się wyjãcie z trybu USB, aby uniknàá utraty danych..</Text>
+Jeãli poziom naładowania baterii jest niski, zaleca się wyjãcie z trybu USB, aby uniknàá utraty danych.</Text>
 	<Text name="msg_bt_device_settings">Ustawienia urzàdzenia Bluetooth®</Text>
 	<Text name="msgmusic_error_playback_cannot_open">Nie moäna otworzyá pliku.</Text>
 	<Text name="msgvideoms_error_licenseinfo">Informacje dotyczàce ochrony praw autorskich sà nieprawidłowe.</Text>

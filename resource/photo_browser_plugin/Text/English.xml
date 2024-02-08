@@ -56,7 +56,7 @@ Czy na pewno chcesz kontynuowaá?</Text>
 	<Text name="msg_no_playlist">Brak listy odtwarzania.
 Listy odtwarzania moäna importowaá z systemu PS3™ lub z aplikacji Media Go™. Szczegółowe informacje moäna znaleåá w instrukcji systemu PSP™.</Text>
 	<Text name="msgphoto_folder_camera">Zdjècia z aparatu cyfrowego</Text>
-	<Text name="msgphoto_info_photoname">Image</Text>
+	<Text name="msgphoto_info_photoname">Obraz</Text>
 	<Text name="msgphoto_info_dateshoot">Data wykonania</Text>
 	<Text name="msgphoto_info_photonumber">Obrazy</Text>
 	<Text name="msgphoto_info_png">PNG</Text>
@@ -72,16 +72,16 @@ Listy odtwarzania moäna importowaá z systemu PS3™ lub z aplikacji Media Go�
 	<Text name="msg_exif_shutter_speed">Migawka</Text>
 	<Text name="msg_exif_f_number">Liczba F</Text>
 	<Text name="msg_exif_exposure_correction_value">Wartoãá korekty ekspozycji</Text>
-	<Text name="msg_exif_exposure_program">Program ekspozycj</Text>
+	<Text name="msg_exif_exposure_program">Program ekspozycji</Text>
 	<Text name="msg_exif_metering_mode">Tryb pomiaru</Text>
 	<Text name="msg_exif_iso">ISO</Text>
-	<Text name="msg_exif_white_balance_mode">Tryb proporcji bielu</Text>
+	<Text name="msg_exif_white_balance_mode">Tryb proporcji bieli</Text>
 	<Text name="msg_exif_flash">Lampa błyskowa</Text>
 	<Text name="msg_exif_color_space">Przestrzeâ barw</Text>
 	<Text name="msg_exif_exif_version">Wersja Exif</Text>
 	<Text name="msg_exif_unknown">Nieznany</Text>
 	<Text name="msg_exif_manual_exposure">Rèczna ekspozycja</Text>
-	<Text name="msg_exif_program_ae">Program AE(Auto ekspozycja)</Text>
+	<Text name="msg_exif_program_ae">Program AE (Auto ekspozycja)</Text>
 	<Text name="msg_exif_aperture_priority">Priorytet przesłony</Text>
 	<Text name="msg_exif_shutter_speed_priority">Priorytet szybkoãci migawki</Text>
 	<Text name="msg_exif_creative_program">Kreatywny</Text>
@@ -122,7 +122,7 @@ Typ danych nie jest obsługiwany.</Text>
 	<Text name="msgphoto_error_send_corrupted">Wysyłanie nie powiodło siè.
 Dane sà uszkodzone.</Text>
 	<Text name="msg_error_play_low_memory">Za mało pamièci systemowej.</Text>
-	<Text name="msg_del_photofolder_conf">Folder i wszystkie obrazy w folderze, w tym obrazy chronione, zostaną usuniète.
+	<Text name="msg_del_photofolder_conf">Folder i wszystkie obrazy w folderze, w tym obrazy chronione, zostanà usuniète.
 Czy na pewno chcesz kontynuowaá?</Text>
 	<Text name="msg_del_photoplaylist_conf">Lista odtwarzania i wszystkie obrazy na liãcie odtwarzania, w tym obrazy chronione, zostaną usuniète.
 Czy na pewno chcesz kontynuowaá?</Text>

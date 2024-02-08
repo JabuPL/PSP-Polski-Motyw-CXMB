@@ -11,7 +11,7 @@
 	<Text name="msgshare_ctrlpnl_display">Wyãwietl</Text>
 	<Text name="msgshare_ctrlpnl_prev">Poprzedni</Text>
 	<Text name="msgshare_ctrlpnl_next">Nastèpny</Text>
-	<Text name="msgshare_ctrlpnl_sizezoom">Powièksz/Pomniejsz</Text>
+	<Text name="msgshare_ctrlpnl_sizezoom">Zoom</Text>
 	<Text name="msgshare_deleted">Usuwanie zakoâczone.</Text>
 	<Text name="msgshare_error_notplay_ms">Nie moäna uzyskaá dostèpu do karty Memory Stick™.</Text>
 	<Text name="msgshare_error_notplay_em">Nie moäna uzyskaá dostèpu do pamièci systemowej.</Text>
@@ -60,9 +60,9 @@ Proszè czekaá.</Text>
 	<Text name="msgcamera_reset_filenumber_conf">Czy chcesz zresetowaá numer pliku?</Text>
 	<Text name="msgcamera_reset_filenumber_cmpltd">Resetowanie zakoâczone.</Text>
 	<Text name="msgcamera_del_image_conf">Obraz zostanie usunièty.
-Czy na pewno chcesz kontynuowaá??</Text>
+Czy na pewno chcesz kontynuowaá?</Text>
 	<Text name="msgcamera_del_video_conf">Film zostanie usunièty.
-Czy na pewno chcesz kontynuowaá??</Text>
+Czy na pewno chcesz kontynuowaá?</Text>
 	<Text name="msg_connect_camera">Podłàcz aparat kompatybilny z systemem PSP™.</Text>
 	<Text name="msgcamera_new_folder_over">Utworzono nowy folder.
 Przekroczono maksymalnà liczbè obrazów, które moäna zapisaá w folderze.</Text>

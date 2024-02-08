@@ -65,7 +65,7 @@ Karta Memory Stick™ jest zablokowana.</Text>
 Jeãli to zrobisz, bieäàca tapeta zostanie utracona.
 Tylko jedna tapeta moäe byá uäyta w systemie.</Text>
 	<Text name="msgphoto_send">Wyãlij</Text>
-	<Text name="msgphoto_send_searchingaperson">Wyszukiwanie konsoli PSP™ do wysłania...
+	<Text name="msgphoto_send_searchingaperson">Wyszukiwanie systemu PSP™ do wysłania...
 Proszè czekaá.</Text>
 	<Text name="msgphoto_send_selectaperson">Wybierz system PSP™, do której chcesz wysłaá obraz.</Text>
 	<Text name="msgphoto_saveimage_ask">Czy chcesz zapisaá obraz na karcie Memory Stick™?</Text>
@@ -82,9 +82,9 @@ Potrzebne jest co najmniej %1 wiècej miejsca.</Text>
 	<Text name="msgshare_ctrlpnl_zoom_reset_with_icon">Wyczyãá przybliäenie %E</Text>
 	<Text name="msgshare_ctrlpnl_rotateleft_with_icon">Obróá w lewo +</Text>
 	<Text name="msgshare_ctrlpnl_rotateright_with_icon">Obróá w prawo +</Text>
-	<Text name="msg_ctrlpnl_scroll_up_with_icon">Przewiń do góry </Text>
-	<Text name="msg_ctrlpnl_scroll_down_with_icon">Przewiń do dołu </Text>
-	<Text name="msg_ctrlpnl_scroll_right_with_icon">Przewiń w prawo </Text>
-	<Text name="msg_ctrlpnl_scroll_left_with_icon">Przewiń w lewo </Text>
+	<Text name="msg_ctrlpnl_scroll_up_with_icon">Przewiâ do góry </Text>
+	<Text name="msg_ctrlpnl_scroll_down_with_icon">Przewiâ do dołu </Text>
+	<Text name="msg_ctrlpnl_scroll_right_with_icon">Przewiâ w prawo </Text>
+	<Text name="msg_ctrlpnl_scroll_left_with_icon">Przewiâ w lewo </Text>
 	<Text name="msgshare_ctrlpnl_slide_mode_with_icon">Ustawienia pokazu slajdów </Text>
 </TextLang>

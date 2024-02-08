@@ -29,7 +29,7 @@ Karta Memory Stick™ jest zablokowana.</Text>
 Dane zostały uszkodzone.</Text>
 	<Text name="msg_error_cannot_start_game_gamedata">Nie moäna uruchomiá gry poprzez jej dane.</Text>
 	<Text name="msgshare_error_memory_low_update">Gra nie mogła zostaá uruchomiona.
-System memory is low.</Text>
+Za mało pamièci systemowej.</Text>
 	<Text name="msgshare_error_wrong_region_game">Gra nie mogła zostaá uruchomiona.
 Kod regionu jest niepoprawny.</Text>
 	<Text name="msgshare_error_internal">Wystàpił błàd wenètrzny.</Text>
@@ -62,7 +62,7 @@ Najnowszà wersjè moäna sprawdziá na stronie internetowej podanej poniäej.
 Czy chcesz uruchomiá przeglàdarkè internetowà i otworzyá tè stronè?</Text>
 	<Text name="msg_bt_disable_to_start">Połàczenie Bluetooth® musi zostaá tymczasowo wyłàczone.
 Czy chcesz wyłàczyć teraz?</Text>
-	<Text name="msg_bt_disable_to_start_usb"><![CDATA[Aby korzystać z akcesoriów wymagających połączenia USB, opcja [Połączenie Bluetooth®] w obszarze [Ustawienia] > [Ustawienia urządzeâ Bluetooth®] musi być ustawiona na [Wyłàcz].
+	<Text name="msg_bt_disable_to_start_usb"><![CDATA[Aby korzystaá z akcesoriów wymagajàcych połàczenia USB, opcja [Połàczenie Bluetooth®] w obszarze [Ustawienia] > [Ustawienia urządzeâ Bluetooth®] musi byá ustawiona na [Wyłàcz].
 Czy chcesz teraz ustawiá opcjè [Połàczenie Bluetooth®] na [Wyłàcz]?]]></Text>
 	<Text name="msg_update_conf_game_resume_data">Jeãli przeprowadzisz aktualizacjè, dane dla [Wznów grè] zostanà usunięte.
 Czy chcesz kontynuowaá?</Text>
@@ -77,7 +77,7 @@ Nie moäna nawiàzaá połàczenia z serwerem.</Text>
 	<Text name="msgupdater_error_notmatch">Nie moäna rozpoczàá aktualizacji.
 Dane aktualizacji nie dotyczà tego systemu.</Text>
 	<Text name="msg_error_update_updater_unmatched">Nie moäna rozpoczàá aktualizacji.
-Należy uäyá danych aktualizacji zgodnych z uäywanym modelem. Aby uzyskaá szczegółowe informacje, odwiedź witrynè internetowà firmy Sony Computer Entertainment odpowiednià dla swojego regionu.</Text>
+Należy uäyá danych aktualizacji zgodnych z uäywanym modelem. Aby uzyskaá szczegółowe informacje, odwiedź witrynè internetowà firmy Sony Interactive Entertainment odpowiednià dla swojego regionu.</Text>
 	<Text name="msg_all">wszystko</Text>
 	<Text name="msg_folder_class_with_icon">Grupuj zawartoãá </Text>
 	<Text name="msg_copying_em">Kopiowanie do pamièci systemu...
@@ -103,7 +103,7 @@ Dane sà uszkodzone.</Text>
 	<Text name="msg_game_copy_ms_info">Gry, dane gier i zapisane dane muszà byá zapisane w tej samej lokalizacji.
 Jeãli kopiujesz grè, dane gry i zapisane dane gry muszà zostaá równieä skopiowane na kartè Memory Stick™.</Text>
 	<Text name="msg_game_copy_em_info">Gry, dane gier i zapisane dane muszà byá zapisane w tej samej lokalizacji.
-Jeãli kopiujesz grè, dane gry i zapisane dane gry muszà zostaá równieä skopiowane do pamièci masowej.</Text>
+Jeãli kopiujesz grè, dane gry i zapisane dane gry muszà zostaá równieä skopiowane do pamièci systemowej.</Text>
 	<Text name="msg_copied_delete_ms_conf">Kopiowanie ukoâczone.
 Czy chcesz usunàc grè z karty Memory Stick™?</Text>
 	<Text name="msg_copied_delete_em_conf">Kopiowanie ukoâczone.
@@ -116,7 +116,7 @@ Gra z tà samà nazwà juä istnieje.</Text>
 	<Text name="msggame_install_installing">Instalowanie...
 Proszè czekaá.</Text>
 	<Text name="msg_error_activated_psp">Aby uäyá tej zawartoãci, musisz aktywowaá system.</Text>
-	<Text name="msg_error_game_display_output">Aby wyãwietlaá obraz na podłàczonym ekranie, musisz go podłàczyá za pomocà kabla komponent lub kabla D-terminal oraz mieá włàczone wyãwietlanie progressywne.</Text>
+	<Text name="msg_error_game_display_output">Aby wyãwietlaá obraz na podłàczonym ekranie, musisz go podłàczyá za pomocà kabla Component lub kabla D-Terminal oraz mieá włàczone wyãwietlanie progressywne.</Text>
 	<Text name="msg_error_download_software">Brak dostèpnego oprogramowania dla tej aplikacji.
 Aby uäyá tej funkcji, musisz pobraá oprogramowanie ze strony poniäej.
 %1
@@ -134,7 +134,7 @@ Uruchom ponownie system i ponownie przeprowadå aktualizacjè.</Text>
 	<Text name="msg_folder_info_title">%1 Tytuł</Text>
 	<Text name="msg_folder_info_titles">%1 Tytułów</Text>
 	<Text name="msg_title_count">Tytuły</Text>
-	<Text name="msg_by_format">wg formatu</Text>
+	<Text name="msg_by_format">Według formatu</Text>
 	<Text name="msg_psp">PSP™ (PlayStation®Portable)</Text>
 	<Text name="msg_minis">minis</Text>
 	<Text name="msg_pc_engine">PCEngine</Text>
@@ -169,9 +169,9 @@ Proszè czekaá.</Text>
 	<Text name="msg_del_software_notice">Jeãli usuniesz tá aplikacjá, zawartoãá oprogramowania nie zostanie usuniáta.
 Aby usunàá zawartoãá, naleäy skorzystaá z aplikacji.</Text>
 	<Text name="msg_del_software_conf">Oprogramowanie aplikacji zostanie usuniète z karty Memory Stick™.
-Czy chcesz kontynuowaá??</Text>
+Czy chcesz kontynuowaá?</Text>
 	<Text name="msg_del_software_em_conf">Oprogramowanie aplikacji zostanie usuniète z pamièci systemowej.
-ACzy chcesz kontynuowaá??</Text>
+ACzy chcesz kontynuowaá?</Text>
 	<Text name="msg_software_timer_limitation">Gdy ta aplikacja jest uruchomiona, ustawienia timera dla innych funkcji nie zostanà aktywowane, nawet jeãli system przejdzie w tryb uãpienia.</Text>
 	<Text name="msg_loading">Ładowanie...</Text>
 	<Text name="msg_download_pls_wait">Pobieranie...
